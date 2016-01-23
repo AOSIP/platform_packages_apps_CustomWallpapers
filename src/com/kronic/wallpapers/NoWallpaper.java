@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.euphoria.wallpapers;
+package com.kronic.wallpapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;

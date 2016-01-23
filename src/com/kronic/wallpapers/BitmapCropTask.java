@@ -1,4 +1,4 @@
-package com.euphoria.wallpapers;
+package com.kronic.wallpapers;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;

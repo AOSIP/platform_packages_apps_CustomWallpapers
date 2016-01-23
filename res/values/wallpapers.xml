@@ -16,18 +16,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>eos_1</item>
-        <item>eos_2</item>
-        <item>eos_3</item>
-        <item>eos_4</item>
-        <item>eos_5</item>
+        <item>kronic_1</item>
+        <item>kronic_2</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Euphoria 1 - Dimitris</item>
-        <item>Euphoria 2 - Dimitris</item>
-        <item>Euphoria 3 - Dimitris</item>
-        <item>Euphoria 4 - Dimitris</item>
-        <item>Euphoria 5 - Dimitris</item>
+        <item>Kronic 1 - Elliot Orcholski</item>
+        <item>Kronic 2 - Elliot Orcholski</item>
     </string-array>
 </resources>
