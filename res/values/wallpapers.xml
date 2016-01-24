@@ -18,10 +18,16 @@
     <string-array name="wallpapers" translatable="false">
         <item>kronic_1</item>
         <item>kronic_2</item>
+        <item>kronic_3</item>
+        <item>kronic_4</item>
+        <item>kronic_5</item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>Kronic 1 - Elliot Orcholski</item>
-        <item>Kronic 2 - Elliot Orcholski</item>
+        <item>Kronic 2 - Sean Grondin</item>
+        <item>Kronic 3 - Sean Grondin</item>
+        <item>Kronic 4 - Elliot Orcholski</item>
+        <item>Kronic 5 - Sean Grondin</item>
     </string-array>
 </resources>
